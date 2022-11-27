@@ -1,4 +1,4 @@
-Names=["Sufiyan","Jamnas","Rizwan"]
-print("Hello!,how are you doing",Names[0])
-print("Hello!,how are you doing",Names[1])
-print("Hello!,how are you doing",Names[2])
+Names=["Sufiyan","Hikma","Rizwan"]
+print("Hi,where are you going",Names[0])
+print("Hi,where are you going",Names[1])
+print("Hi,where are you going",Names[2])
