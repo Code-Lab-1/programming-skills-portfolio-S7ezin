@@ -1,5 +1,5 @@
-rivers = {'nile':'egypt',
-          'amazon':'brazil',
+rivers = {'Rio Grande':'Mexico and United States',
+          'Missouri River':'United States',
           'yangtze':'china'
     }
 i=0

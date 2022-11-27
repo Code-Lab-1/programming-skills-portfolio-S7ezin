@@ -1,21 +1,21 @@
 pets = []
 pet_1= {
-    'animal':'cat',
-    'name':'macho',
-    'owner':'sam',
+    'animal':'Dog',
+    'name':'JK',
+    'owner':'Princ',
 }
 pets.append(pet_1)
 pet_2= {
-    'animal':'dog',
-    'name':'sam',
-    'owner':'mike',
+    'animal':'cat',
+    'name':'Leo',
+    'owner':'Logan',
 }
 pets.append(pet_2)
 
 pet_3= {
-    'animal':'parrot',
-    'name':'peso',
-    'owner':'eric',
+    'animal':'Lizard',
+    'name':'Shep',
+    'owner':'Meza',
 }
 pets.append(pet_3)
 for pet in pets:
