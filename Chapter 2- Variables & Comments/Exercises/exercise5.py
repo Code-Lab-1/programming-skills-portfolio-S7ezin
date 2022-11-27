@@ -1,4 +1,4 @@
-a=50
-b=6
+a=77
+b=7
 print('she can get:', a//b)
 print('reminder:', a%b)
